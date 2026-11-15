@@ -1,0 +1,4 @@
+io.github.hichambenhsine.chamy.infrastructure.provider.git.contributor.GitStatusContributor
+io.github.hichambenhsine.chamy.infrastructure.provider.git.contributor.GitCommitContributor
+io.github.hichambenhsine.chamy.infrastructure.provider.git.contributor.GitBranchContributor
+io.github.hichambenhsine.chamy.infrastructure.provider.git.contributor.GitStandardContributor
